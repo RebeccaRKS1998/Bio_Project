@@ -62,8 +62,7 @@ print(df5)
 
 #Save bioactivity data to CSV file: bioactivity_data_preprocessed.csv
 df5.to_csv('acetylcholinesterase_03_bioactivity_data_curated.csv', index=False)
-
-zip acetylcholinesterase.zip *.csv
+ 
 
 
 
